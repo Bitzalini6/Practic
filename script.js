@@ -1,0 +1,1 @@
+var bitza = 'hello world';
