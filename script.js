@@ -48,5 +48,3 @@ filterTodos(term); //calling the function "filterTodos" and use term as an argum
 }); 
 
 
-
-
