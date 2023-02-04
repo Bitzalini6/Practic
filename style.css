@@ -1,6 +1,6 @@
 body{
-    background: #352f5b;
-  
+    background-image: url(backgroundImage.avif);
+  background-size: 1500px;
 }
   .container{
     max-width: 400px;
@@ -13,10 +13,18 @@ body{
     max-width: 400px;
   }
   .todos li{
-    background: #423a6f;
+    background: white;
   }
   .delete{
     cursor: pointer;
+  }
+
+  input[name=add],input[name=search]{
+    background-color: whitesmoke;
+  }
+
+  .filtered{
+    display:none !important; 
   }
 
 
