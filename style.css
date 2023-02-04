@@ -27,6 +27,7 @@ body{
     display:none !important; 
   }
 ul{ width:fit-content;
+    word-break:break-word;
 }
 
 
