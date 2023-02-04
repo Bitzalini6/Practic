@@ -26,6 +26,8 @@ body{
   .filtered{
     display:none !important; 
   }
+ul{ width:fit-content;
+}
 
 
   
