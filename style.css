@@ -1,34 +1,33 @@
-body{
+body {
   background-image: url(backgroundImage.avif);
-background-size: 1500px;
+  background-size: 1500px;
 }
-.container{
+.container {
   max-width: 400px;
 }
-input[type=text],
-input[type=text]:focus{
+input[type="text"],
+input[type="text"]:focus {
   color: #fff;
   border: none;
-  background: rgba(0,0,0,0.2);
+  background: rgba(0, 0, 0, 0.2);
   max-width: 400px;
 }
-.todos li{
+.todos li {
   background: white;
 }
-.delete{
+.delete {
   cursor: pointer;
 }
 
-input[name=add],input[name=search]{
+input[name="add"],
+input[name="search"] {
   background-color: whitesmoke;
 }
 
-.filtered{
-  display:none !important; 
+.filtered {
+  display: none !important;
 }
-ul{ width:fit-content;
-  word-break:break-word;
-  
+ul {
+  width: fit-content;
+  word-break: break-word;
 }
-
-  
